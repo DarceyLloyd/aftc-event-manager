@@ -1,0 +1,20 @@
+{
+  "name": "aftc-event-manager",
+  "version": "0.0.1",
+  "description": "coming soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarceyLloyd/aftc-event-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarceyLloyd/aftc-event-manager/issues"
+  },
+  "homepage": "https://github.com/DarceyLloyd/aftc-event-manager#readme"
+}
